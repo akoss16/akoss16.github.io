@@ -1,0 +1,62 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+@import url(https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope);
+
+
+html {
+    background: url("../images/cat_licking-paws_w-feathers.jpg") bottom right, url("../images/resume-background.jpg") top left;
+    background-repeat: no-repeat;
+    
+}
+body {
+    text-align: left;
+    color: black;
+    margin-left: 50px;
+    margin-right: 350px;
+}
+
+h1 {
+    font-family: 'Walter Turncoat';
+    font-size: 70px;
+    color: yellow;
+    margin-top: auto;
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-family: 'Walter Turncoat';
+    font-size: 50px;
+    color: blue;
+    margin-top: 50;
+    margin-left: 125px;
+    margin-bottom: auto;
+}
+
+h3 {
+    font-family: 'Walter Turncoat';
+    font-size: 40px;
+    color: blue;
+    margin-top: auto;
+    margin-left: 125px;
+    margin-bottom: auto;
+    border-top: 5px solid blue;
+}
+
+p {
+    font-family: 'Annie Use Your Telescope';
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: auto;
+    margin-left: 125px;
+}
+ p   .emphasis {
+     color: blue;
+     font-weight: bolder;
+}
+
+ul {
+    font-family: 'Annie Use Your Telescope';
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: auto;
+    margin-left: 125px;
+}

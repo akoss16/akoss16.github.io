@@ -1,0 +1,40 @@
+@import url(https://fonts.googleapis.com/css?family=Walter+Turncoat);
+@import url(https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope);
+
+
+html {
+    background: url("../images/cat_background-image_v3_darkest.jpg") no-repeat center center fixed;
+    background-size: cover;
+}
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: left;
+    color: white;
+}
+
+h1 {
+    font-family: 'Walter Turncoat';
+    font-size: 70px;
+    color: yellow;
+}
+
+h3 {
+    font-family:'Walter Turncoat';
+    font-size: 20px;
+    font-weight: 100;
+    text-align: center;
+    color: #2e54f5;}
+
+p {
+    font-family: 'Annie Use Your Telescope';
+    font-weight: 100;
+    font-size: 55px;
+}
+p .emphasis {
+        color: #2e54f5;
+}
+ p .emphasis2 {
+     color: yellow;
+     
