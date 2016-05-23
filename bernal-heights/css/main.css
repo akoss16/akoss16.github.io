@@ -103,6 +103,14 @@ div {
     padding: 1rem;
 }
 
+div .description {
+    width; 100px;
+    text-align: center;
+    font-size: 20px;
+    padding: 5px;
+    
+}
+
 
 div .left-half {
   
@@ -117,10 +125,6 @@ div .gallery {
     column-count: 2;
 }
 
-div .gallery2 {
-    width: 45%;
-    column-count: 4;
-}
 
 h3,
 h4,
@@ -191,7 +195,8 @@ footer {
     background-color: #2b6289;
 }
 
-h6 .link-text {
+.link {
     font-size: 20px;
+    color: white;
 }
 
