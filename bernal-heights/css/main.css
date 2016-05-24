@@ -191,7 +191,7 @@ img {
 
         
 footer {
-    padding: 25px;
+    padding: 50px;
     width: auto;
     height: auto;
     background-color: #2b6289;
@@ -199,6 +199,5 @@ footer {
 
 .link-text {
     font-size: 20px;
-    color: white;
+    color: yellowgreen;
 }
-
